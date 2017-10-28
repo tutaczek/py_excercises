@@ -1,4 +1,4 @@
-print('Witaj, świecie!')
+print('Hello world!')
 print('Jak masz na imię?')
 myName = input ()
 print('Miło cię poznać,' + myName + '.')
